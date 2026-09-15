@@ -56,6 +56,16 @@ export const Footer = () => {
                   Architecture & Docs
                 </Link>
               </li>
+              <li>
+                <a
+                  href="https://signalscope2026h.vercel.app"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="hover:text-[#12A879] dark:hover:text-[#36D99B] hover:underline underline-offset-4 transition-colors"
+                >
+                  Live Deployment
+                </a>
+              </li>
             </ul>
           </div>
 

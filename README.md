@@ -5,6 +5,8 @@ whether an image is likely real or AI-generated. It combines visual
 classification, spatial explanations, frequency-domain evidence, robustness
 checks, provenance signals, and an optional caption-consistency check.
 
+
+
 The project was developed for the SIH 2026 **SignalScope** problem statement:
 detect synthetic imagery, generalise to unseen generators, and explain the
 verdict without making accusations about people or real-world events.
@@ -465,7 +467,7 @@ npm run build
 - **Compliance matrix:** [`COMPLIANCE_STATUS.md`](COMPLIANCE_STATUS.md)
 - **Dataset and originality notes:** [`DATASET_LICENSES.md`](DATASET_LICENSES.md)
 - **Demo video:** [Watch the SignalScope website demo](https://drive.google.com/file/d/1emYaN1ZVg-sOZL75elun3UUbnpBArh9y/view?usp=drive_link)
-- **Deployed application:** `TODO: add the final public URL`
+- **Deployed application:** [`Link`](https://signalscope2026h.vercel.app)
 
 The demo should show a new-image prediction, confidence and label,
 explanation/heatmap, and any bonus modules being claimed. The originality
