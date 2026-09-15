@@ -467,7 +467,7 @@ npm run build
 - **Compliance matrix:** [`COMPLIANCE_STATUS.md`](COMPLIANCE_STATUS.md)
 - **Dataset and originality notes:** [`DATASET_LICENSES.md`](DATASET_LICENSES.md)
 - **Demo video:** [Watch the SignalScope website demo](https://drive.google.com/file/d/1emYaN1ZVg-sOZL75elun3UUbnpBArh9y/view?usp=drive_link)
-- **Deployed application:** [`Link`](https://signalscope2026h.vercel.app)
+- **Deployed application:** (https://signalscope2026h.vercel.app)
 
 The demo should show a new-image prediction, confidence and label,
 explanation/heatmap, and any bonus modules being claimed. The originality
